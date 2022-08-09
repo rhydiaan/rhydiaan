@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rhydian!</h1>
+<h3 align="center">Aspiring programmer</h3>
 
-<!--
-**rhydiaan/rhydiaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [MadVibes/discordbots](https://github.com/MadVibes/discordbots)
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Python** 🐍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/rhydian-sion-davies/)
+
+<h1></h1>
+<h3 align="left">Some fun stats!</h3>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhydiaan&theme=dark" alt="rhydiaan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rhydiaan&show_icons=true&theme=dark&locale=en" alt="rhydiaan" />
+</p> 
