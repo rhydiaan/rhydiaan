@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MadVibes/discordbots](https://github.com/MadVibes/discordbots)
 
-- 🌱 I’m currently learning **JavaScript** ☕
+- 🌱 I’m currently learning **Python** 🐍, **JavaScript** ☕
 
 - 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/rhydian-sion-davies/)
 
