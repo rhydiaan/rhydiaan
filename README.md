@@ -7,7 +7,6 @@
 
 - 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/rhydian-sion-davies/)
 
-- 📚 I've got an okay understanding of Python 🐍
 
 <h1></h1>
 <h3 align="left">Some fun stats!</h3>
