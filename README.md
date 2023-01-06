@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MadVibes/discordbots](https://github.com/MadVibes/discordbots)
 
-- 🌱 I’m currently learning **Python** 🐍, **GoLang** <img src="https://cdn.discordapp.com/attachments/689264811699077121/1036985398594908160/gopher.png" width=13>
+- 🌱 I’m currently learning **Python** 🐍, **GoLang** <img src="https://cdn.discordapp.com/attachments/689264811699077121/1036985398594908160/gopher.png" width=13>, **JavaScript** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" width=13> 
 
 - 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/rhydian-sion-davies/)
 
