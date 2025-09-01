@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rhydian!</h1>
-<h3 align="center">Aspiring programmer</h3>
-
-- 🔭 I’m currently working on [MadVibes/discordbots](https://github.com/MadVibes/discordbots)
-
-- 🌱 I’m currently learning **Rust** <img src="https://rustacean.net/assets/rustacean-flat-noshadow.png" width=20> 
-
+<h3 align="center">Unreal Engine Game Developer</h3>
+- 
 - 📄 Reach me via [LinkedIn!](https://www.linkedin.com/in/rhydian-sion-davies/)
-
 
 <h1></h1>
 <h3 align="left">Some fun stats!</h3>
