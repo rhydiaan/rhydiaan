@@ -7,5 +7,4 @@
 <h3 align="left">Some fun stats!</h3>
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhydiaan&theme=dark" alt="rhydiaan" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rhydiaan&show_icons=true&theme=dark&locale=en" alt="rhydiaan" />
 </p> 
